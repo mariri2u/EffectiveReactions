@@ -1,0 +1,20 @@
+{
+    "variants": {
+        "meta=0":  { "model": "effectivereactions:black_cobblestone" },
+        "meta=1":  { "model": "effectivereactions:black_stone" },
+        "meta=2":  { "model": "effectivereactions:black_stonebrick" },
+        "meta=3":  { "model": "effectivereactions:black_smoothstone" },
+        "meta=4":  { "model": "effectivereactions:red_cobblestone" },
+        "meta=5":  { "model": "effectivereactions:red_stone" },
+        "meta=6":  { "model": "effectivereactions:red_stonebrick" },
+        "meta=7":  { "model": "effectivereactions:red_smoothstone" },
+        "meta=8":  { "model": "effectivereactions:blue_cobblestone" },
+        "meta=9":  { "model": "effectivereactions:blue_stone" },
+        "meta=10":  { "model": "effectivereactions:blue_stonebrick" },
+        "meta=11":  { "model": "effectivereactions:blue_smoothstone" },
+        "meta=12":  { "model": "effectivereactions:white_cobblestone" },
+        "meta=13":  { "model": "effectivereactions:white_stone" },
+        "meta=14":  { "model": "effectivereactions:white_stonebrick" },
+        "meta=15":  { "model": "effectivereactions:white_smoothstone" }
+    }
+}

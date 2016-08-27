@@ -1,0 +1,33 @@
+{
+    "variants": {
+        "meta=0":  { "model": "effectivereactions:barrel_0" },
+        "meta=1":  { "model": "effectivereactions:barrel_1" },
+        "meta=2":  { "model": "effectivereactions:barrel_2" },
+        "meta=3":  { "model": "effectivereactions:barrel_2" },
+        "meta=4":  { "model": "effectivereactions:barrel_2" },
+        "meta=5":  { "model": "effectivereactions:barrel_2" },
+        "meta=6":  { "model": "effectivereactions:barrel_2" },
+        "meta=7":  { "model": "effectivereactions:barrel_2" },
+        "meta=8":  { "model": "effectivereactions:barrel_2" },
+        "meta=9":  { "model": "effectivereactions:barrel_2" },
+        "meta=10":  { "model": "effectivereactions:barrel_2" },
+        "meta=11":  { "model": "effectivereactions:barrel_2" },
+        "meta=12":  { "model": "effectivereactions:barrel_2" },
+        "meta=13":  { "model": "effectivereactions:barrel_2" },
+        "meta=14":  { "model": "effectivereactions:barrel_2" },
+        "meta=15":  { "model": "effectivereactions:barrel_2" },
+        "meta=16":  { "model": "effectivereactions:barrel_2" },
+        "meta=17":  { "model": "effectivereactions:barrel_2" },
+        "meta=18":  { "model": "effectivereactions:barrel_2" },
+        "meta=19":  { "model": "effectivereactions:barrel_2" },
+        "meta=20":  { "model": "effectivereactions:barrel_2" },
+        "meta=21":  { "model": "effectivereactions:barrel_2" },
+        "meta=22":  { "model": "effectivereactions:barrel_2" },
+        "meta=23":  { "model": "effectivereactions:barrel_2" },
+        "meta=24":  { "model": "effectivereactions:barrel_2" },
+        "meta=25":  { "model": "effectivereactions:barrel_2" },
+        "meta=26":  { "model": "effectivereactions:barrel_2" },
+        "meta=27":  { "model": "effectivereactions:barrel_2" },
+        "meta=28":  { "model": "effectivereactions:barrel_2" }
+    }
+}
