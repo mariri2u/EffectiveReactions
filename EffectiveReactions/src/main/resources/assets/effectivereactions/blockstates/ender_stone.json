@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "meta=0":  { "model": "effectivereactions:ender_cobblestone" },
+        "meta=1":  { "model": "effectivereactions:ender_stone" },
+        "meta=2":  { "model": "effectivereactions:ender_stonebrick" },
+        "meta=3":  { "model": "effectivereactions:ender_smoothstone" }
+    }
+}

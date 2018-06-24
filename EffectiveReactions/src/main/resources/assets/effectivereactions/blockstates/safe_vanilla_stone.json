@@ -1,0 +1,19 @@
+{
+    "variants": {
+        "meta=0":  { "model": "cobblestone" },
+        "meta=1":  { "model": "stone" },
+        "meta=2":  { "model": "stonebrick_normal" },
+        "meta=3":  { "model": "brick" },
+        "meta=4":  { "model": "nether_brick" },
+        "meta=5":  { "model": "sandstone_normal" },
+        "meta=6":  { "model": "sandstone_smooth" },
+        "meta=7":  { "model": "red_sandstone_normal" },
+        "meta=8":  { "model": "red_sandstone_smooth" },
+        "meta=9":  { "model": "granite" },
+        "meta=10":  { "model": "granite_smooth" },
+        "meta=11":  { "model": "diorite" },
+        "meta=12":  { "model": "diorite_smooth" },
+        "meta=13":  { "model": "andesite" },
+        "meta=14":  { "model": "andesite_smooth" }
+    }
+}
